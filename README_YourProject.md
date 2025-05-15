@@ -44,7 +44,7 @@ min	        Minimum değer
 max	        Maksimum değer.  
 Bu istatistikler, veri dağılımı hakkındadır. Örneğin, yaş (age) için ortalama, medyan ve maksimum değerleri karşılaştırarak yaş dağılımında çarpıklık olup olmadığını gözlemleyebiliriz.
 
- [görsel1 - Distributions ]
+ [görsel1 - [Distributions](https://github.com/FiratUniversity-FerhatUcarsLAB/ymt5270-arasinav-projesi-aycafacan/blob/main/img/Ekran%20Resmi%202025-05-14%2014.53.31.png) ]
 
 Veri Ön İşleme
 a) Eksik Veriler
@@ -67,11 +67,11 @@ Görselleştirmeler
 
 
 Görselleştirme 1: [Distributions]
-[distributions görsel]
+[distributions görsel   https://github.com/FiratUniversity-FerhatUcarsLAB/ymt5270-arasinav-projesi-aycafacan/blob/main/img/Ekran%20Resmi%202025-05-14%2014.53.31.png]
   
 Distributions widget, veri setindeki sayısal ve kategorik özniteliklerin değer dağılımını görselleştirmek için kullanılır. Histogram ve çubuk grafiklerle değişkenlerin nasıl dağıldığını gösterir, sınıflara göre karşılaştırma yaparak aykırı değerleri ve veri dengesizliklerini analiz etmeye yardımcı olur. Veri setinde erkekler sayıca daha fazladır. Kadınlarda da hasta olanların oranı erkeklere göre daha yüksektir.
 Görselleştirme 2: [Test and Score]
-[test and score görsel]
+[test and score görsel  https://github.com/FiratUniversity-FerhatUcarsLAB/ymt5270-arasinav-projesi-aycafacan/blob/main/img/Ekran%20Resmi%202025-05-15%2012.50.49.png]
 
 
  
@@ -144,7 +144,7 @@ Sonuçların Yorumlanması
 •	Korelasyon matrisinden çıkan sonuçlara göre thalach, cp, exang, oldpeak gibi öznitelikler hedef değişkenle önemli ilişki göstermektedir.
 •	Kodda sadece bir model denenmiş. Alternatif algoritmalar (Random Forest, SVM, XGBoost) ile karşılaştırma yapılması model performansını daha doğru değerlendirmeyi sağlar.
 Orange İş Akışı
-[orange iş akışı görsel]
+[orange iş akışı görsel     https://github.com/FiratUniversity-FerhatUcarsLAB/ymt5270-arasinav-projesi-aycafacan/blob/main/img/Ekran%20Resmi%202025-05-12%2011.21.41.png]
 
 1.	File
 2.	Data Table
